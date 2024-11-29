@@ -1,7 +1,7 @@
 # Proyecto Respira🌱
 **Website:** www.proyectorespira.net
 
-![01 Proyecto Respira(1)](https://github.com/user-attachments/assets/b6b626f8-1e14-4a8b-9e7e-fe53dbb56ee1)
+![01 Proyecto Respira(1)](https://github.com/user-attachments/assets/37ce90a9-3a07-4099-876b-55a6f22a7a92)
 
 ## Acerca de / About
 
