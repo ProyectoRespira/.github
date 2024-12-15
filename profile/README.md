@@ -16,7 +16,7 @@ Nuestro proyecto se enfoca en ofrecer el primer sistema de predicciones de calid
 Aquí tienes una lista de nuestros repositorios de código abierto:
 
 - [**data_retriever:**](https://github.com/ProyectoRespira/data_retriever) El pipeline de datos y sistema de predicción de calidad del aire.  
-- **respira-webapp:** El backend y frontend para la aplicación web que visualiza datos de calidad del aire y ofrece pronósticos.  
+- [**respira-webapp:**](https://github.com/vnbl/respira-webapp) El backend y frontend para la aplicación web que visualiza datos de calidad del aire y ofrece pronósticos.  
 
 
 ## Como participar 
